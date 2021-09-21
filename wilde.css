@@ -1,0 +1,36 @@
+.speech{
+    font-family: 'Times New Roman Bold',Times, serif;
+    font-size: medium;
+    color:Green;
+}
+.speech:hover{
+    color:Pink;
+}
+.stage-direction{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color:blueviolet;
+}
+.stage-direction:hover{
+    color:blue;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color:red;
+}
+.name:hover{
+    color:black;
+}
+.ALLONBY{
+    color:yellow;
+}
+.STUTFIELb{
+    color:gray;
+}
+.HUNSTANTON{
+    color:skyblue;
+}
+.CAROLINE{
+    color:blue;
+}
