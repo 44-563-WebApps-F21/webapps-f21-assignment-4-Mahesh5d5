@@ -52,3 +52,21 @@ td{
     color:blueviolet;
     border:1px solid black
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background: linear-gradient(110deg, yellowgreen 40%,purple 50%);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:20px;
+    color: pink;
+}
+ul.navbar-horizontal a:hover {
+    background-color: violet;
+    color:yellowgreen;
+}
